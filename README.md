@@ -1,81 +1,118 @@
-# Hi, I’m Vishwanath Maddula 👋
+👋 Hi, I’m Vishwanath Maddula
+Software Engineer | Backend & Data Engineering
 
-**Software Engineer | Backend & Data Engineering**  
-I build scalable backend systems and data platforms using **Java, Python, SQL, Airflow, Spark, and Cloud technologies (GCP/AWS)**. My work focuses on reliable ETL pipelines, cloud-native microservices, and analytics-ready data systems.
+I build scalable backend systems and data platforms using Java, Python, SQL, Airflow, Spark, and GCP. My work focuses on reliable ETL pipelines, cloud-native microservices, distributed data processing, and analytics-ready data systems.
 
-📍 United States  
-📧 vishwanathmaddula24@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vishwanath-maddula-06b1871aa) | [GitHub](https://github.com/vmadd24)
+📍 United States
+📧 vishwanathmaddula24@gmail.com
 
----
+🔗 LinkedIn
+ • LeetCode
+ • GitHub
 
-## 🚀 What I Work On
-- Backend development with **Java, Spring Boot, Python, Flask**
-- Building **ETL / ELT pipelines** using Airflow, PySpark, and Cloud-native tools
-- Streaming & event-driven systems (Kafka, Pub/Sub)
-- Advanced **SQL analytics, query optimization, and data modeling**
-- Designing production-grade, testable, and scalable systems
+🚀 What I Do
 
----
+Backend engineering with Java, Spring Boot, Python (Flask/FastAPI)
 
-## 🛠 Tech Stack
-**Languages:** Java, Python, SQL, JavaScript  
-**Backend & APIs:** Spring Boot, Spring Cloud, Flask, RESTful APIs, Microservices  
-**Data Engineering:** Airflow, PySpark, Apache Beam, Kafka, Pub/Sub, ETL/ELT, dbt, SODA  
-**Databases:** PostgreSQL, MySQL, MongoDB, BigQuery, Elasticsearch  
-**Cloud & DevOps:** GCP, AWS, Docker, Terraform, GitHub Actions, CI/CD  
-**Analytics & Monitoring:** Pandas, NumPy, Statistics, Power BI, Looker  
-**Testing & Tools:** JUnit, Pytest, Postman  
-**Systems & Security:** Linux, Windows, TCP/IP, OSI Model, OWASP Best Practices
+Designing batch + streaming pipelines (Airflow, PySpark, Beam)
 
----
+Cloud data systems using BigQuery, Dataflow, GCS, Cloud SQL
 
-## 💼 Experience
+ETL/ELT, data modeling, and SQL performance optimization
 
-### Data Engineer / Software Engineer – Data Analytics Platform  
-**FoodSupply AI** | *Mar 2025 – Present*
-- Developed and maintained batch data pipelines using **Python, PySpark, and Airflow (Cloud Composer)**, processing **3GB+ daily marketing data** on GCP.
-- Designed large-scale analytics pipelines using **Apache Beam on Cloud Dataflow**, delivering insights through BigQuery.
-- Built **RESTful APIs (Flask, Spring Boot)** to serve processed data to internal dashboards and services.
-- Optimized complex **BigQuery SQL** workloads, reducing execution time by **30–35%**.
-- Contributed to **CI/CD automation** with GitHub Actions and Terraform; added monitoring and health checks for Airflow DAGs.
+Microservices, REST APIs, containerization, CI/CD, Terraform
 
-### Software Engineer Intern – Data Platform  
-**Honeywell Aerospace** | *Jan 2023 – Jun 2023*
-- Migrated **25+ years of unstructured and file-based data** into PostgreSQL, enabling analytics-ready datasets.
-- Built Spring Boot microservices and REST APIs that reduced manual data lookup by **8–10 hours per week**.
-- Designed relational schemas and wrote optimized SQL for reporting and analytics use cases.
-- Applied **Python (NLTK, Pandas, NumPy)** for text mining and entity extraction from aerospace documents.
-- Ensured pipeline reliability through data validation, testing, and monitoring.
+Monitoring, observability, reliability, and automated testing
 
----
+🛠 Tech Stack
+Languages
 
-## 📌 Featured Projects
+Java • Python • SQL • JavaScript
 
-### 📊 YouTube Data ELT Pipeline
-🔗 https://github.com/vmadd24/YT_ELT  
-End-to-end ELT pipeline using **Airflow, Docker, PostgreSQL**, YouTube API, with **SODA-based data quality checks** and GitHub Actions CI/CD.
+Backend
 
-### 📈 Impact of COVID-19 on Pharmaceutical Stocks
-🔗 https://github.com/vmadd24/Impact-Of-COVID19-On-Pharma-Sector  
-Exploratory and statistical analysis on NIFTY Pharma Index data using hypothesis testing and visualization, identifying a **40% post-COVID price increase**.
+Spring Boot • Flask • FastAPI • REST APIs • Microservices
 
-### 🏗 Construction Company Management System
-🔗 https://github.com/vmadd24/Construction-Company-Management-System  
-Java-based system with normalized relational design for project tracking, employee management, and resource allocation.
+Data Engineering
 
----
+Airflow • PySpark • Apache Beam • Databricks • ETL/ELT • dbt • SODA • Data Modeling
 
-## 🎓 Education
-**M.S. in Computer Science** – University of Illinois at Springfield | GPA: **4.0/4.0**  
-**B.Tech in Computer Science & Engineering** – Amrita Vishwa Vidyapeetham | GPA: **9.2/10**
+Databases
 
----
+PostgreSQL • MySQL • MongoDB • BigQuery • Cloud SQL • Elasticsearch
 
-## 🏆 Highlights
-- Graduated **First Class with Distinction** (Bachelor’s)
-- Recipient of **Amrita Vidyanidhi Scholarship** (75% tuition waiver)
+Cloud & DevOps
 
----
+GCP • AWS • Docker • Terraform • GitHub Actions • CI/CD
 
+Software Engineering
+
+DSA • System Design • OOP • OS • Design Patterns • JUnit • Pytest • Postman • Linux
+
+💼 Experience
+Software Engineer – Data Analytics Platform
+
+FoodSupply.ai | Mar 2025 – Present
+
+Built data analytics pipelines using Python, Java, PySpark, Airflow, and GCP (Cloud Composer).
+
+Designed data architecture using BigQuery (analytics), GCS (data lake), Cloud SQL (OLTP), Elasticsearch (search/logging).
+
+Developed REST APIs in Flask & Spring Boot for internal data access.
+
+Improved BigQuery SQL performance by 30–35% through optimization and clustering.
+
+Automated CI/CD using GitHub Actions and added Airflow monitoring + health checks.
+
+Debugged production issues in Linux, improving system stability.
+
+Software Engineer Intern – Data Platform
+
+Honeywell Aerospace | Jan 2023 – Jun 2023
+
+Developed NLTK-based extraction process for 25+ years of aerospace documents.
+
+Built Spring Boot and Python services improving runway data search accuracy.
+
+Migrated legacy file-based datasets to PostgreSQL, reducing lookup time by 8–10 hours per cycle.
+
+Designed SQL validation scripts to ensure data correctness across thousands of records.
+
+Contributed to debugging, QA, and platform reliability improvements.
+
+📌 Featured Projects
+📊 YouTube Data ELT Pipeline
+
+🔗 https://github.com/vmadd24/YT_ELT
+
+Airflow + Docker + PostgreSQL + YouTube API with SODA data quality checks and Pytest test automation.
+
+🏗 Construction Company Management System
+
+🔗 https://github.com/vmadd24/Construction-Company-Management-System
+
+Java + PostgreSQL system for project tracking, employee management, and resource allocation.
+
+📈 Impact of COVID-19 on Pharma Stocks
+
+🔗 https://github.com/vmadd24/Impact-Of-COVID19-On-Pharma-Sector
+
+Statistical analysis showing 40% post-COVID increase in NIFTY Pharma Index using hypothesis testing.
+
+🎓 Education
+
+M.S. in Computer Science – University of Illinois at Springfield
+GPA: 4.0/4.0
+
+B.Tech in Computer Science & Engineering – Amrita Vishwa Vidyapeetham
+GPA: 9.2/10 • First Class with Distinction
+Scholarship: Amrita Vidyanidhi Scholarship (75% tuition waiver)
+
+🏆 Achievements
+
+250+ LeetCode problems solved (advanced DSA proficiency)
+
+Strong foundation in algorithms, system design, backend engineering
+
+Delivered production-ready systems across analytics, ETL, and API services
 ⭐️ Open to **Backend Engineer, Data Engineer, and Platform Engineer** roles. Feel free to explore my repositories or connect with me!
