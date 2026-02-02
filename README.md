@@ -5,7 +5,7 @@ I build scalable backend systems and data platforms using **Java, Python, SQL, A
 
 📍 United States  
 📧 vishwanathmaddula24@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vishwanath-maddula-06b1871aa) | [GitHub](https://github.com/vmadd24) | [LeetCode](https://leetcode.com/u/vmadd01/)
+🔗 [LinkedIn](https://www.linkedin.com/in/vishwanath-maddula-06b1871aa) | [GitHub](https://github.com/vmadd24)
 
 ---
 
