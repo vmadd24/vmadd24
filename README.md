@@ -93,7 +93,7 @@ Statistical analysis showing **40% post-COVID increase** in NIFTY Pharma Index u
 ---
 
 ## 🏆 Achievements
-- 250+ LeetCode problems solved (advanced DSA proficiency)
+- 400+ LeetCode problems solved (advanced DSA proficiency)
 - Strong foundation in algorithms, system design, backend engineering
 - Delivered production-ready systems across analytics, ETL, and API services
 
