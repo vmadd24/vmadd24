@@ -7,13 +7,13 @@ Building scalable backend systems, REST APIs, AI-powered applications, and enter
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vishwanath-maddula-06b1871aa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vmadd24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/vmadd01/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="mailto:vishwanathmaddula24@gmail.com">
@@ -223,9 +223,9 @@ I enjoy working across the entire backend stack—from designing databases and A
 
 📧 **vishwanathmaddula24@gmail.com**
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 💼 LinkedIn: https://www.linkedin.com/in/vishwanath-maddula-06b1871aa
 - 💻 GitHub: https://github.com/vmadd24
-- 🧩 LeetCode: YOUR_LEETCODE_URL
+- 🧩 LeetCode: https://leetcode.com/u/vmadd01/
 
 ---
 
