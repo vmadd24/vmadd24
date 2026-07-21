@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishwanath Maddula
 
-<h3 align="center">Software Engineer | Backend Engineer | Python • Django • Java • Spring Boot</h3>
+<h3 align="center">Software Engineer | Backend Engineer | Python • Django • Java • • SQL</h3>
 
 <p align="center">
 Building scalable backend systems, REST APIs, AI-powered applications, and enterprise software.
@@ -34,7 +34,7 @@ I enjoy working across the entire backend stack—from designing databases and A
 - 🔭 Software Engineer @ APS Data Technologies
 - 🌱 Exploring AI-powered enterprise applications & distributed systems
 - 💡 Interested in Backend Engineering, System Design, Cloud, and AI
-- 💬 Ask me about Python, Django, Java, Spring Boot, PostgreSQL, REST APIs
+- 💬 Ask me about Python, Django, Java, Spring Boot, SQL, PostgreSQL, REST APIs
 - ⚡ Strong believer in writing clean, maintainable, and scalable code
 
 ---
@@ -107,15 +107,6 @@ I enjoy working across the entire backend stack—from designing databases and A
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,linux" />
 </p>
-
-## Tools
-
-- Postman
-- Pytest
-- Docker Compose
-- GitHub Actions
-- Claude AI
-- REST APIs
 
 ---
 
