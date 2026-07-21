@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishwanath Maddula
 
-<h3 align="center">Software Engineer | Backend Engineer | Python • Django • Java • • SQL</h3>
+<h3 align="center">Software Engineer | Backend Engineer | Python • Django • Java • Spring Boot • SQL</h3>
 
 <p align="center">
 Building scalable backend systems, REST APIs, AI-powered applications, and enterprise software.
