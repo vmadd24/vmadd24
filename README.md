@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Backend Engineer | Python • Django • Java • Spring Boot • SQL</h3>
 
 <p align="center">
-Building scalable backend systems, REST APIs, AI-powered applications, and enterprise software.
+Early-career Software Engineer with production experience building backend systems using Python, Django, Java, PostgreSQL, and AWS. Experienced in developing REST APIs, distributed data-processing workflows, automation pipelines, and cloud infrastructure using Docker, Terraform, Celery, and Redis. Strong background in testing, CI/CD, observability, and production troubleshooting.
 </p>
 
 <p align="center">
@@ -25,85 +25,77 @@ Building scalable backend systems, REST APIs, AI-powered applications, and enter
 
 # 👨‍💻 About Me
 
-I'm a Software Engineer passionate about designing scalable backend systems, solving complex engineering problems, and building reliable software that makes an impact.
+I'm a software engineer focused on building robust backend systems, scalable APIs, and production-ready enterprise software. My work spans Python, Django, Java, Spring Boot, PostgreSQL, and AWS, with a strong emphasis on distributed systems, data processing, cloud infrastructure, and operational excellence. I'm experienced in the full backend lifecycle—from system design and database modeling to API development, deployment automation, testing, and production monitoring.
 
-Currently, I'm working at **APS Data Technologies**, where I develop enterprise-scale backend features for a production multi-tenant ERP platform used by K-12 school districts.
-
-I enjoy working across the entire backend stack—from designing databases and APIs to deploying production-ready applications with Docker and CI/CD.
+Currently, I work at **APS Data Technologies**, where I design and develop backend services for a multi-tenant ERP platform serving K-12 school districts. I specialize in building configurable workflows, automation pipelines, and cloud-native infrastructure.
 
 - 🔭 Software Engineer @ APS Data Technologies
-- 🌱 Exploring AI-powered enterprise applications & distributed systems
-- 💡 Interested in Backend Engineering, System Design, Cloud, and AI
-- 💬 Ask me about Python, Django, Java, Spring Boot, SQL, PostgreSQL, REST APIs
-- ⚡ Strong believer in writing clean, maintainable, and scalable code
+- 🌱 Exploring distributed systems, event-driven architecture, and AI-powered enterprise applications
+- 💡 Interested in Backend Engineering, System Design, Cloud Infrastructure, and AI
+- 💬 Ask me about Python, Django, Java, Spring Boot, PostgreSQL, AWS, Docker, Celery, Terraform
+- ⚡ Strong believer in clean code, testing, observability, and production reliability
 
 ---
 
 # 💼 Professional Experience
 
-## 🚀 Software Engineer Trainee | APS Data Technologies
+## 🚀 Software Engineer | APS Data Technologies
 **June 2026 – Present**
 
-- Developed backend features for a production-deployed multi-tenant ERP platform consisting of **32 Django applications**, **300+ database models**, and **35 REST API modules**.
-- Built configurable attendance policy workflows supporting **14 rule categories**, **18 exception types**, and **3 enforcement levels**.
-- Implemented geofence-based attendance validation using the **Haversine formula**, **CIDR IP allowlisting**, and automated supervisor escalation workflows.
-- Integrated **Anthropic Claude AI** into role-specific dashboards for benefits recommendations, retirement planning, and candidate screening with built-in PII masking.
-- Containerized the application stack using **Docker Compose** (Django, React, PostgreSQL, Redis).
-- Contributed to **GitHub Actions CI/CD** pipelines with automated testing and security checks.
-- Supported the platform's first live pilot deployment for **School District 308, Illinois**.
+- Developed backend features for a production multi-tenant ERP platform supporting HR, Payroll, Finance, and Information modules across **32 Django applications** and **300+ database models**.
+- Designed a configurable attendance policy engine supporting **14 rule categories**, **18 exception types**, and **3 enforcement levels**, with automated supervisor escalation for policy violations.
+- Built an automated user provisioning pipeline using **AWS Transfer Family**, **S3**, **Celery**, and **Redis** to process nightly CSV exports and create user accounts without manual intervention.
+- Automated multi-tier substitute search across 3 escalation tiers, cutting coverage resolution from manual phone calls to under 2 hours via Celery-driven offer/response cycle with configurable timeouts and auto-escalation.
+- Managed AWS infrastructure using **Terraform**, provisioning S3, IAM, RDS, ElastiCache, ECS/EC2, and networking through **GitHub Actions CI/CD pipelines**.
+- Achieved **96% code coverage** across backend modules through unit testing using **pytest**.
+- Containerized the full-stack platform (Django, Celery, React, PostgreSQL, Redis) using **Docker Compose** and engineered **GitHub Actions CI/CD pipelines**, reducing deployment time by **60%**.
 
 ---
 
-## 📊 Software Engineer Trainee | InfoSmart Technologies
-**Jan 2025 – May 2026**
+## 📊 Software Engineer | InfoSmart Technologies
+**Dec 2025 – June 2026**
 
-- Developed backend services using **Python**, **Django**, and **Django REST Framework** for digital advertising platforms.
-- Built REST APIs for processing campaign performance data including impressions, clicks, conversions, and advertising spend.
-- Optimized PostgreSQL schemas and SQL queries, improving reporting performance by **35%**.
-- Improved REST API response times by **20%** through query optimization and efficient backend processing.
-- Built data validation and aggregation workflows to ensure accurate reporting and analytics.
-- Implemented logging, monitoring, and debugging solutions to improve production reliability.
+- Developed backend services and RESTful APIs using **Python**, **Django**, and **Django REST Framework** to process and manage digital advertising campaign data.
+- Built and optimized APIs for ingesting and serving ad performance metrics (impressions, clicks, conversions, spend), reducing response latency by **20%**.
+- Designed **PostgreSQL** database schemas and SQL queries for large advertising datasets, improving query performance by **35%**.
+- Implemented data processing workflows to validate, transform, and aggregate advertising data, ensuring accuracy for reporting and analytics.
+- Built ETL pipelines using **Apache Airflow** and **Celery** to process advertising data from multiple sources into centralized data stores, streamlining downstream reporting workflows.
 
 ---
 
 ## ✈️ Software Engineer Intern | Honeywell Aerospace
 **Jan 2023 – Jun 2023**
 
-- Developed backend microservices and REST APIs using **Java** and **Spring Boot**.
-- Built Python automation scripts to process over **25 years of archived aerospace operational data**.
-- Migrated legacy file-based datasets to PostgreSQL, reducing manual lookup effort by **8–10 hours per cycle**.
-- Worked with engineering teams on backend development, database design, and testing.
+- Developed backend microservices and REST APIs using **Java** and **Spring Boot** for aerospace software applications.
+- Built Python-based pattern matching algorithms and automation scripts to extract, clean, and analyze over **25 years of archived operational data** for trend analysis and reporting.
+- Migrated legacy file-based data storage to **PostgreSQL**, improving search performance and reducing manual lookup effort by **8–10 hours per cycle**.
+- Tested REST APIs using **JUnit** and **Postman**, achieving **95% test coverage**.
 
 ---
 
 # 🚀 Tech Stack
 
 ## Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
 </p>
 
 ## Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=django,spring,fastapi,nodejs" />
 </p>
 
 ## Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-## Databases
-
+## Databases & Caching
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 ## Cloud & DevOps
-
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git,linux" />
 </p>
@@ -114,12 +106,10 @@ I enjoy working across the entire backend stack—from designing databases and A
 
 ## 🎥 YouTube Data ELT Pipeline
 
-**Tech Stack:** Airflow • Docker • PostgreSQL • Python • SODA • Pytest
+**Tech Stack:** Apache Airflow • Docker • PostgreSQL • Python • Soda • Pytest
 
-- Built an ELT pipeline to ingest YouTube data.
-- Automated workflow orchestration using Airflow.
-- Added data quality validation using SODA.
-- Implemented automated testing using Pytest.
+- Built an automated ELT pipeline using Apache Airflow and Docker to transform YouTube analytics into PostgreSQL.
+- Implemented automated data quality validation using Pytest and Soda, improving pipeline reliability.
 
 🔗 Repository: https://github.com/vmadd24/YT_ELT
 
@@ -127,11 +117,10 @@ I enjoy working across the entire backend stack—from designing databases and A
 
 ## 🏗 Construction Company Management System
 
-**Tech Stack:** Java • Swing • PostgreSQL
+**Tech Stack:** Java • Spring Boot • PostgreSQL
 
-- Developed a desktop management system for construction companies.
-- Built employee, resource, and project management modules.
-- Delivered the complete application within a 4-month timeline.
+- Developed a Java/PostgreSQL construction management platform supporting project tracking, employee management, inventory, and billing workflows.
+- Designed normalized PostgreSQL schemas and implemented CRUD APIs and transaction workflows across project, inventory, and billing modules.
 
 🔗 Repository: https://github.com/vmadd24/Construction-Company-Management-System
 
@@ -143,7 +132,7 @@ I enjoy working across the entire backend stack—from designing databases and A
 
 **Master of Science in Computer Science**
 
-**GPA:** 4.0 / 4.0
+**GPA:** 4.0 / 4.0 | 2023 - 2024
 
 ---
 
@@ -151,7 +140,7 @@ I enjoy working across the entire backend stack—from designing databases and A
 
 **Bachelor of Technology in Computer Science & Engineering**
 
-**GPA:** 9.2 / 10
+**GPA:** 9.2 / 10 | 2019 - 2023
 
 🏅 Amrita Vidyanidhi Scholar
 
@@ -162,19 +151,20 @@ I enjoy working across the entire backend stack—from designing databases and A
 - 🎓 Master's GPA: **4.0 / 4.0**
 - 🏅 Amrita Vidyanidhi Scholarship Recipient
 - 💻 Strong foundation in Data Structures & Algorithms
-- 🏗 Experience building production enterprise applications
-- 🤖 Integrated AI into enterprise software using Anthropic Claude
-- 🐳 Experience with Docker, CI/CD, and cloud-native development
+- 🏗 Production experience building enterprise-scale ERP platforms
+- 🤖 Automated multi-tier workflows, provisioning pipelines, and LLM integrations
+- 🐳 Full-stack containerization and CI/CD automation reducing deployment time by 60%
+- 📊 Data pipeline expertise with Apache Airflow, ETL, and analytics
+- ✅ Achieved 96% code coverage through comprehensive testing practices
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced System Design
-- Distributed Systems
-- Kubernetes
-- AI Agents
+- Advanced System Design & Distributed Systems
 - Event-Driven Architecture
+- Kubernetes & Advanced Container Orchestration
+- AI Agents and LLM-based automation
 
 ---
 
