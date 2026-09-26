@@ -1,5 +1,9 @@
 # Hi 👋, I'm Vishwanath Maddula
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vmadd24&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 <h3 align="center">Software Engineer | Backend Engineer | Python • Django • Java • Spring Boot • SQL</h3>
 
 <p align="center">
