@@ -179,9 +179,7 @@ Currently, I work at **APS Data Technologies**, where I design and develop backe
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vmadd24&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=vmadd24&theme=tokyonight" />
 </p>
 
 ---
@@ -189,9 +187,7 @@ Currently, I work at **APS Data Technologies**, where I design and develop backe
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vmadd24&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vmadd24&theme=tokyo-night&bg_color=1a1b27&color=70f0ff&line=70f0ff&point=ff006e&hide_border=true" />
 </p>
 
 ---
