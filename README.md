@@ -182,7 +182,6 @@ I enjoy working across the entire backend stack—from designing databases and A
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vmadd24&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="./generated/languages.svg" alt="Languages used across public and private repositories" height="76"/>
 </p>
 
 ---
