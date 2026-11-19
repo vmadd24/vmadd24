@@ -31,7 +31,7 @@ Early-career Software Engineer with production experience building backend syste
 
 I'm a software engineer focused on building robust backend systems, scalable APIs, and production-ready enterprise software. My work spans Python, Django, Java, Spring Boot, PostgreSQL, and AWS, with a strong emphasis on distributed systems, data processing, cloud infrastructure, and operational excellence. I'm experienced in the full backend lifecycle—from system design and database modeling to API development, deployment automation, testing, and production monitoring.
 
-Currently, I work at **APS Data Technologies**, where I design and develop backend services for a multi-tenant ERP platform serving K-12 school districts. I specialize in building configurable workflows, automation pipelines, and cloud-native infrastructure.
+Currently, I work at **APS Data Technologies**, where I design and develop backend services for a multi-tenant ERP platform serving school districts. I specialize in building configurable workflows, automation pipelines, and cloud-native infrastructure.
 
 - 🔭 Software Engineer @ APS Data Technologies
 - 🌱 Exploring distributed systems, event-driven architecture, and AI-powered enterprise applications
